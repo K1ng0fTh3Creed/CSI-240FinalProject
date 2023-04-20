@@ -7,7 +7,7 @@ public:
 	~Hero(){};
 
 protected:
-	int mHP;
+	int mH2P;
 	int mDMG;
 	int mCritRate;
 	double mCritDMG;
